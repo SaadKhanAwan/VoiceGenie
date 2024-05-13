@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "177980538361",
+    "project_id": "zenithrabitai",
+    "storage_bucket": "zenithrabitai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177980538361:android:77715288b403453ee71128",
+        "android_client_info": {
+          "package_name": "com.saad.zen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177980538361-s9ht1e8jnchiatrr1vk7rorloqdl295d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saad.zen",
+            "certificate_hash": "d8437f467f30850f3c0a4ed831a8bd2e4d05d180"
+          }
+        },
+        {
+          "client_id": "177980538361-ivsent1o1p9mlbntjt7p5lh2q5ns939h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0OMVogiHfg_MkuLhDqoWbPBQUWlelGOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177980538361-ivsent1o1p9mlbntjt7p5lh2q5ns939h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177980538361-p04pq0nb86mp69rp84oh4dmefri6ef1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zenithrabitai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
